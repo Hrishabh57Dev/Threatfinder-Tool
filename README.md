@@ -20,5 +20,4 @@
    git clone https://github.com/yourusername/threatfinder.git
    cd threatfinder
    pip install -r requirements.txt
-   python threatfinder.py
-```
+   python threatfinder.py```
